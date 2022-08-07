@@ -4,6 +4,6 @@ HOST='184.168.98.68';
 USER='umtunnel';
 PASS='6p;vx6n6PsBw';
 DBNAME='umtunnel';
-PORT_TCP='110';
+PORT_TCP='1194';
 PORT_UDP='53';
 this is test
